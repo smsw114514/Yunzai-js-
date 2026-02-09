@@ -8,5 +8,5 @@
 # 使用
 在Yunzai根目录运行
 ```shell
-iwr "https://raw.githubusercontent.com/smsw114514/Yunzai-js-/main/%E5%B9%B2%E4%BB%80%E4%B9%88.js" -OutFile "E:\botbot\plugins\干什么.js"
+git clone --depth=1 "https://raw.githubusercontent.com/smsw114514/Yunzai-js-/main/%E5%B9%B2%E4%BB%80%E4%B9%88.js" -OutFile "\plugins\干什么.js"
 ```
