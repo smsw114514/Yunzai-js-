@@ -8,5 +8,5 @@
 # 使用
 在Yunzai根目录运行
 ```shell
-git clone --depth=1 "./plugins/example/干什么.js" "blob:https://github.com/5712cf47-9a67-47c3-9e21-b33c8203ae05"
+git clone --depth=1 "./plugins/example" "blob:https://github.com/5712cf47-9a67-47c3-9e21-b33c8203ae05"
 ```
