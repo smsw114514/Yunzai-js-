@@ -2,7 +2,7 @@
 以plugins\example目录为主的js插件
 以ai编写
 
-# onlyAtBot.js
+# onlyAtBot
 ## 介绍 
 > 当用户@bot时，bot引用消息并回复“干什么！！！”
 
@@ -13,7 +13,7 @@
 curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/7a8af36ffcf2bae79f4880dd250c4a9793cf9a01/onlyAtBot.js
 ```
 
-# 恶臭数字论证器.js
+# 恶臭数字论证器
 ## 介绍
 > [基于卜卜口的homo开发](https://github.com/itorr/homo/tree/master)
 - 将一串数字变恶臭（悲
