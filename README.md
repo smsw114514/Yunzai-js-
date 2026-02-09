@@ -2,8 +2,8 @@
 以plugins\example目录为主的js插件
 以ai编写
 
+# **onlyAtBot.js**
 ## 介绍 
-**onlyAtBot.js**
 当用户@bot时，bot引用消息并回复“干什么！！！”
 
 ## 使用
