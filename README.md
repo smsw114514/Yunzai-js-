@@ -11,3 +11,4 @@
 ```shell
 curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/7a8af36ffcf2bae79f4880dd250c4a9793cf9a01/onlyAtBot.js
 ```
+运行完后记得重启
