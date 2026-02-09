@@ -15,7 +15,7 @@ curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/
 
 # 恶臭数字论证器.js
 ## 介绍
-[基于rtorr的homo开发](https://github.com/itorr/homo/tree/master)
+[基于itorr的homo开发](https://github.com/itorr/homo/tree/master)
 
 ## 使用
 - 在Yunzai根目录运行
