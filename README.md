@@ -1,4 +1,4 @@
-# Yunzai-js
+# 自用Yunzai-js
 以plugins\example目录为主的js插件
 以ai编写
 
