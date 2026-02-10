@@ -20,7 +20,7 @@ curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/
 # 恶臭数字论证器
 ## 介绍
 > [基于卜卜口的homo开发](https://github.com/itorr/homo/tree/master)
-- 将一串数字变恶臭（悲
+> 将一串数字变恶臭（悲
 
 ## 使用
 - 在Yunzai根目录运行
