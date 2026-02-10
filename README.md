@@ -2,6 +2,10 @@
 以plugins\example目录为主的js插件
 以ai编写
 
+- onlyAtBot
+- 恶臭数字论证器
+- hyw
+
 # onlyAtBot
 ## 介绍 
 > 当用户@bot时，bot引用消息并回复“干什么！！！”
@@ -24,7 +28,7 @@ curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/
 ```shell
 curl.exe -L -o "plugins/example/恶臭数字论证器.js" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/refs/heads/main/%E6%81%B6%E8%87%AD%E6%95%B0%E5%AD%97%E8%AE%BA%E8%AF%81%E5%99%A8.js
 ```
-#hyw
+# hyw
 ## 介绍
 > 当用户回复 “？” 时，bot回复 “hyw”
 > 每个用户5分钟内只回复一次
