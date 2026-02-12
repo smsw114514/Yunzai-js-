@@ -1,6 +1,6 @@
 # 「Yunzai-js」 自用
-以plugins\example目录为主的js插件
-以ai编写
+### 以plugins\example目录为主的js插件
+### 以ai编写
 
 - onlyAtBot
 - 恶臭数字论证器
