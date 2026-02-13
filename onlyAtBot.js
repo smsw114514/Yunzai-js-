@@ -10,7 +10,7 @@ export class example extends plugin {
       priority: 1,
       rule: [
         {
-          reg: '.*',   // 关键：必须能命中
+          reg: '.*',   
           fnc: 'onlyAtBot'
         }
       ]
@@ -49,3 +49,4 @@ export class example extends plugin {
     return true
   }
 }
+
