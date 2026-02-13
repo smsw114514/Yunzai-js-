@@ -566,7 +566,6 @@ const homo = ((Nums) => {
 	'⑨': '11-4-5+1-4'
 })
 
-// ===== ② Elia-Yunzai 插件 =====
 export default class HomoPlugin extends plugin {
 	constructor () {
 		super({
@@ -593,3 +592,4 @@ export default class HomoPlugin extends plugin {
 		await e.reply(res || '无法论证')
 	}
 }
+
