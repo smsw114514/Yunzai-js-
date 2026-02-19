@@ -575,7 +575,7 @@ export default class HomoPlugin extends plugin {
 			priority: 50,
 			rule: [
 				{
-					reg: /^(?:\/)?(?:homo|114514)[\s\S]*?(-?\d+(?:\.\d+)?)/i,
+					reg: /^(?:\/)?(?:homo|Homo|恶臭|114514)[\s\S]*?(-?\d+(?:\.\d+)?)/i,
 					fnc: 'calc'
 				}
 			]
@@ -592,4 +592,5 @@ export default class HomoPlugin extends plugin {
 		await e.reply(res || '无法论证')
 	}
 }
+
 
