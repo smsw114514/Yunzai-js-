@@ -12,7 +12,7 @@ export class autoQuestionCooldown extends plugin {
       priority: 5000,
       rule: [
         {
-          reg: /^[?？]$/,
+          reg: /^[?|？]$/,
           fnc: 'replyWithCooldown'
         }
       ]
@@ -35,3 +35,4 @@ export class autoQuestionCooldown extends plugin {
     return true
   }
 }
+
