@@ -589,8 +589,9 @@ export default class HomoPlugin extends plugin {
 
 		const num = Number(match[1])
 		const res = homo(num)
-		await e.reply(res || '无法论证')
+		await e.reply(res || '太臭了无法论证')
 	}
 }
+
 
 
