@@ -1,3 +1,8 @@
+/**
+ * 源于卜卜口（https://github.com/itorr）的https://github.com/itorr/homo/
+ * 并用ai（gpt）进行修改以用于yunzai
+ */
+
 import plugin from '../../lib/plugins/plugin.js'
 
 // ===== ① 算法本体：必须在 class 之前 =====
@@ -592,6 +597,7 @@ export default class HomoPlugin extends plugin {
 		await e.reply(res || '太臭了无法论证')
 	}
 }
+
 
 
 
