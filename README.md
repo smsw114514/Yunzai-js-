@@ -10,6 +10,7 @@
 推荐手动下载（
 
 # onlyAtBot
+
 ## 介绍 
 > 当用户@bot时，bot引用消息并回复“干什么！！！”
 
@@ -21,6 +22,7 @@ curl.exe -L -o "plugins/example/onlyAtBot.js" https://raw.githubusercontent.com/
 ```
 
 # 恶臭数字论证器
+
 ## 介绍
 > [基于卜卜口的homo开发](https://github.com/itorr/homo)
 > 
@@ -46,6 +48,7 @@ curl.exe -L -o "plugins/example/恶臭数字论证器.js" https://raw.githubuser
 curl.exe -L -o "plugins/example/hyw.js" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/refs/heads/main/hyw.js
 ```
 #（准备中）
+
 ##介绍
 -
 
