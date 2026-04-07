@@ -21,7 +21,6 @@ export class example extends plugin {
     
     if (!e.isGroup) return false
 
-    // NapCat 下必须手动判断
     const atList = e.message.filter(m => m.type === 'at')
 
     // 必须且只能 @ 一个
@@ -41,7 +40,7 @@ export class example extends plugin {
     await e.reply(
       [
         segment.at(e.user_id),
-        ' 干什么!!!'
+        ' 干什么!想被日吗（）'
       ],
       true
     )
