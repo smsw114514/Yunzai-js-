@@ -21,7 +21,7 @@ export class autoQuestionCooldown extends plugin {
 
   async replyWithCooldown (e) {
     const key = e.user_id          // 只按人
-    // const key = `${e.group_id}_${e.user_id}` // ← 按“群+人”冷却（更常见）
+    // const key = `${e.group_id}_${e.user_id}` 
 
     const now = Date.now()
     const last = cooldownMap.get(key)
