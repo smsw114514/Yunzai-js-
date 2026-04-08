@@ -49,7 +49,7 @@ curl.exe -L -o "plugins/example/hyw.js" https://raw.githubusercontent.com/smsw11
 ```
 # pokeBack
 ## 介绍
-> 当用户拍一拍bot时，回复“戳我干什么！！”
+> 当用户拍一拍bot时，回戳并回复
 >
 > 60秒冷却
 > 
