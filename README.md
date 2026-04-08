@@ -5,7 +5,7 @@
 - onlyAtBot
 - 恶臭数字论证器
 - hyw
-- （准备中）
+- pokeBack
 
 推荐手动下载（
 
@@ -47,13 +47,16 @@ curl.exe -L -o "plugins/example/恶臭数字论证器.js" https://raw.githubuser
 ```shell
 curl.exe -L -o "plugins/example/hyw.js" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/refs/heads/main/hyw.js
 ```
-# （准备中）
+# pokeBack
 ## 介绍
-
+> 当用户拍一拍bot时，回复“戳我干什么！！”
+>
+> 60秒冷却
+> 
 ## 使用
 - 在Yunzai根目录运行
 - 运行完后记得重启
 
 ```shell
-
+curl.exe -L -o "plugins/example/pokeBack" https://raw.githubusercontent.com/smsw114514/Yunzai-js-/refs/heads/main/pokeBack.js
 ```
