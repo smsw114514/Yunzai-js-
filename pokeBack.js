@@ -46,7 +46,7 @@ export class PokeBack extends plugin {
         clearInterval(timer)
         console.error('[拍一拍反击] 失败：', err.message)
       }
-    }, 0) // 立即执行，连续回戳3次
+    }, 10) // 立即执行，连续回戳3次
 
     return true
   }
